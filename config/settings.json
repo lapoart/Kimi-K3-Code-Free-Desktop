@@ -1,0 +1,37 @@
+{
+  "model": {
+    "name": "kimi-k3",
+    "context_window": 200000,
+    "bilingual": [
+      "zh",
+      "en"
+    ],
+    "streaming": true
+  },
+  "endpoint": {
+    "base_url": "https://api.moonshot.cn/v1",
+    "free_tier": true
+  },
+  "review": {
+    "severities": [
+      "bug",
+      "security",
+      "optimization"
+    ],
+    "max_file_bytes": 48000,
+    "skip_dirs": [
+      "node_modules",
+      "vendor",
+      ".git"
+    ]
+  },
+  "ui": {
+    "theme": "dark",
+    "diff_view": true,
+    "export_formats": [
+      "markdown",
+      "json"
+    ]
+  },
+  "_rev": "rev-b8f3c1-20260825"
+}

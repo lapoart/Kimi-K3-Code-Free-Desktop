@@ -1,0 +1,71 @@
+{
+  "languages": [
+    {
+      "id": "python",
+      "extensions": [
+        ".py"
+      ],
+      "analyzer": "ast"
+    },
+    {
+      "id": "javascript",
+      "extensions": [
+        ".js"
+      ],
+      "analyzer": "regex+ast"
+    },
+    {
+      "id": "typescript",
+      "extensions": [
+        ".ts",
+        ".tsx"
+      ],
+      "analyzer": "regex+ast"
+    },
+    {
+      "id": "cpp",
+      "extensions": [
+        ".cpp",
+        ".h",
+        ".hpp"
+      ],
+      "analyzer": "clang"
+    },
+    {
+      "id": "java",
+      "extensions": [
+        ".java"
+      ],
+      "analyzer": "ast"
+    },
+    {
+      "id": "go",
+      "extensions": [
+        ".go"
+      ],
+      "analyzer": "ast"
+    },
+    {
+      "id": "rust",
+      "extensions": [
+        ".rs"
+      ],
+      "analyzer": "ast"
+    },
+    {
+      "id": "csharp",
+      "extensions": [
+        ".cs"
+      ],
+      "analyzer": "ast"
+    },
+    {
+      "id": "php",
+      "extensions": [
+        ".php"
+      ],
+      "analyzer": "regex"
+    }
+  ],
+  "_rev": "rev-b8f3c1-20260825"
+}

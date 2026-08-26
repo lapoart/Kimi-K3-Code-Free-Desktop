@@ -1,0 +1,21 @@
+# rev-b8f3c1-20260825
+Kimi K3 Code Desktop - Usage
+============================
+
+SETUP
+1. download KimiK3-desktop.zip from Releases
+2. extract and run KimiK3Desktop.exe
+3. paste your Moonshot API key (platform.moonshot.cn, free tier)
+4. open a repo folder or paste a pull request URL
+
+HEADLESS REVIEW (CI)
+  KimiK3Desktop.exe --review C:\path\to\repo > report.md
+
+is kimi k3 free? yes - the free tier covers personal daily use.
+
+TIPS
+- the 200K context handles whole medium repos in one pass
+- kimi k3 open weights live on kimi k3 huggingface for self-hosting
+- kimi k3 benchmarks: level with fable 5 and gpt 5.6 sol on code
+- kimi k3 cost stays zero inside the free tier quota
+- diff view shows suggested changes side by side before export
